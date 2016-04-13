@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/qiusli/bingwallpaper/issues"
   },
-  "homepage": "https://github.com/qiusli/bingwallpaper#readme"
+  "homepage": "https://github.com/qiusli/bingwallpaper#readme",
+  "dependencies": {
+    "superagent": "^1.8.3"
+  }
 }
