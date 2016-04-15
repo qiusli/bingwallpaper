@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/qiusli/bingwallpaper#readme",
   "dependencies": {
+    "cron": "^1.1.0",
+    "request": "^2.71.0",
     "superagent": "^1.8.3"
   }
 }
